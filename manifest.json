@@ -15,7 +15,7 @@
   ],
   "applications": {
     "gecko": {
-      "id": "ymhk@mozilla.org",
+      "id": "ymhk@repairmanjack",
       "strict_min_version": "82.0"
     }
   }
